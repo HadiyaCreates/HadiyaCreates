@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **hadiyashaikh2006@gmail.com**
 
-- ⚡ Fun fact **Java enthusiast in the making! I'm currently learning Java to expand my programming horizons. When I'm not coding, you can find me expressing my creativity through art.**
+- ⚡ Fun fact **Java enthusiast in the making! I'm currently learning Java to expand my programming horizons.
+-  When I'm not coding, you can find me expressing my creativity through art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
