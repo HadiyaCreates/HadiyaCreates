@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/736x/81/9c/18/819c1885e0eb1c1e12e9b5fcb9f9683c.jpg" alt="MasterHead" width="550" height="280">
+<img src="https://i.pinimg.com/736x/81/9c/18/819c1885e0eb1c1e12e9b5fcb9f9683c.jpg" alt="MasterHead" width="650" height="310">
 <h1 align="center">Hi 👋, I'm Hadiya</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
