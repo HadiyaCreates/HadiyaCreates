@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hadiya</h1>
-<h3 align="center">A passionate full-Stack developer from India</h3>
+<h3 align="center">A passionate full-Stack developer</h3>
 <img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiyacreates&label=Profile%20views&color=0e75b6&style=flat" alt="hadiyacreates"/> </p>
