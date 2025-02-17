@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/08/b2/c2/08b2c2802b4c99bdf5ef49c9c9f4685c.jpg" 
+  <img src="https://www.cleantechloops.com/wp-content/uploads/2022/02/low-code-software-developer.jpg" 
        alt="MasterHead" 
-       width="500" 
-       height="300">
+       width="630" 
+       >
 </p>
 
 
